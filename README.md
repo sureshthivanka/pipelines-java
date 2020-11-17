@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sureshthivanka/devops-demo/_apis/build/status/sureshthivanka.pipelines-java?branchName=master)](https://dev.azure.com/sureshthivanka/devops-demo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
